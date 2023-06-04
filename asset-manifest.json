@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/hacker-news/static/js/main.26fc151f.js",
+    "index.html": "/hacker-news/index.html",
+    "static/media/user_icon.svg": "/hacker-news/static/media/user_icon.fdeaa178506cdde84f8438f6e01dc036.svg",
+    "main.26fc151f.js.map": "/hacker-news/static/js/main.26fc151f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.26fc151f.js"
+  ]
+}
