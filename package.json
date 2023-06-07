@@ -2,7 +2,7 @@
   "name": "hackernews",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MarinaRS14.github.io/hacker-news",
+  "homepage": "https://MarinaRS14.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",

@@ -4,8 +4,8 @@ import StoryBlock from '../components/StoryBlock';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchStories } from '../store/reducers/ActionCreators';
 import axios from 'axios';
-import Loader from '../components/Loader';
 import { BASE_URL } from '../api/hnApi';
+import Loader from '../components/Loader';
 
 function MainPage() {
   const dispatch = useDispatch();
